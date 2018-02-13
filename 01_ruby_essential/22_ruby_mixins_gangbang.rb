@@ -26,4 +26,7 @@ puts strange_example.to_talk_portuguese
 # OtherPeople:
 puts strange_example.to_know_capoeira
 
+# Himself (StrangeGangbang):
+puts strange_example.what_the_fuck
+
 # Important to note that this names are just an joke okay?
