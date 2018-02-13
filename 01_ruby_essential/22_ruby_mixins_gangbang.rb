@@ -18,12 +18,12 @@ end
 strange_example = StrangeGangbang.new
 
 # Mother:
-puts example.to_talk_english
+puts strange_example.to_talk_english
 
 # Father:
-puts example.to_talk_portuguese
+puts strange_example.to_talk_portuguese
 
 # OtherPeople:
-puts example.to_know_capoeira
+puts strange_example.to_know_capoeira
 
 # Important to note that this names are just an joke okay?
